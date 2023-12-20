@@ -1,0 +1,17 @@
+.icony {
+  width: 24px;
+  height: 24px;
+}
+
+:root {
+  --fill-color: #f45618;
+}
+
+.empty:hover  {
+  stroke: var(--fill-color) !important;
+}
+
+.full:hover  {
+  fill: var(--fill-color) !important;
+  stroke: var(--fill-color) !important;
+}
