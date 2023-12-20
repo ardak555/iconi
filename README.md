@@ -3,6 +3,9 @@
 
 You can add icon in your react projectin this package.
 
+## NPM Page
+[npm page](https://www.npmjs.com/package/iconys)
+
 ## To download this package:
 
 ```bash
