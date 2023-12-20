@@ -1,5 +1,5 @@
 
-# iconi (npm package)
+# iconys (npm package)
 
 You can add icon in your react projectin this package.
 
