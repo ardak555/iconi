@@ -1,0 +1,18 @@
+[
+    {
+      "id": "home1",
+      "icons": ["asset/home1.svg"],
+      "name": "home"
+    },
+    {
+      "id": "home2",
+      "icons": ["asset/home2.svg"],
+      "name": "home2"
+    },
+    {
+      "id": "home3",
+      "icons": ["asset/home3.svg"],
+      "name": "home3"
+    }
+  ]
+  
